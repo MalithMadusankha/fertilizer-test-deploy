@@ -1,0 +1,33 @@
+# Version Control
+.git
+.gitignore
+
+# Virtual Environments
+venv
+.env
+*.env
+
+# Python cache files
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Development and IDE files
+.vscode
+.idea
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Build and distribution files
+build
+dist
+*.egg-info
+
+# Unnecessary directories
+node_modules
+.pytest_cache
